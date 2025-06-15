@@ -28,7 +28,7 @@ function App() {
   const myElement2 = <h2>It is {5 + 5} times better with JSX!</h2>;
   const myElement3 = (
     <p>
-      JSX is a syntax extension for JavaScript that looks similar to XML or HTML. It allows you to write HTML-like code within JavaScript, making it easier to create and visualize the structure of your UI components.
+      is a syntax extension for JavaScript that looks similar to XML or HTML. It allows you to write HTML-like code within JavaScript, making it easier to create and visualize the structure of your UI components.
     </p>
   );
   const myElement4 = (
